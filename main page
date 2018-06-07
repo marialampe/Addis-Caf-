@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>####</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div id="wrapper">
+<div class="header">
+  <p class="headLine"> Addis Cafe </p>
+  <hr>
+  <!-- <img src="1.png"></img> -->
+
+</div>
+
+<div class="row">
+  <!-- Maincontent -->
+  <div class="column left">
+
+    <a href="Layout01.html">Aktuelles</a>
+    <a href="Layout01_Menu.html">Menu</a>
+    <a href="Layout01_Reservierungen.html">Resevierung</a>
+    <a href="Layout01_uber.html">Über uns</a>
+    <a href="Layout01_BilderGallerie.html">BilderGallerie</a>
+    <a href="Layout01_Kontakt.html">Kontakt und Anfahrt</a>
+
+
+  </div>
+<!-- Maincontent -->
+  <div class="column middle">
+    <div class="cm_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</div>
+    <hr>
+    <div class="cm_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</div>
+    <hr>
+    <div class="cm_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</div>
+    <hr>
+    <div class="cm_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</div>
+  </div>
+
+  <div class="column right">
+    <p> Random Text </p>
+    <hr>
+    <table id="tableHead">
+      <tr>
+        <th>Day</th>
+        <th>Time</th>
+      </tr>
+      <tr>
+        <td>Monday</td>
+        <td>Closed</td>
+      </tr>
+      <tr>
+        <td>Tuesday</td>
+        <td>Xx:xX - Xx:xX</td>
+      </tr>
+      <tr>
+        <td>Wednesday</td>
+        <td>Xx:xX - Xx:xX</td>
+      </tr>
+      <tr>
+        <td>Thursday</td>
+        <td>Xx:xX - Xx:xX</td>
+      </tr>
+      <tr>
+        <td>Friday</td>
+        <td>Xx:xX - Xx:xX</td>
+      </tr>
+      <tr>
+        <td>Saturday</td>
+        <td>Xx:xX - Xx:xX</td>
+      </tr>
+      <tr>
+        <td>Sunday</td>
+        <td>Xx:xX - Xx:xX</td>
+      </tr>
+    </table>
+    <hr>
+    <p> Random Text </p>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Creator or Whatever: ####</p>
+  <p>Contact information: <a href="mailto:someone@example.com">
+  someone@example.com</a>.</p>
+</div>
+</div>
+</body>
+</html>
