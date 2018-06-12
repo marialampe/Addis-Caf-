@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>####</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div id="wrapper">
+<div class="header">
+  <p class="headLine"> Addis Cafe </p>
+  <hr>
+  <!-- <img src="1.png"></img> -->
+
+</div>
+
+<div class="row">
+  <!-- Maincontent -->
+  <div class="column left">
+
+    <a href="Layout01.html">Aktuelles</a>
+    <a href="Layout01_Menu.html">Menu</a>
+    <a href="Layout01_Reservierungen.html">Resevierung</a>
+    <a href="Layout01_uber.html">Über uns</a>
+    <a href="Layout01_BilderGallerie.html">BilderGallerie</a>
+    <a href="Layout01_Kontakt.html">Kontakt und Anfahrt</a>
+
+
+  </div>
+<!-- Maincontent -->
+  <div class="column middle">
+    <div id="menuCardFrame">
+      <iframe src="Layout01_LoadMenu.html"></iframe>
+    </div>
+    <p style="text-align: center">Oder bisschen einfacher - Suckt allerdings...</p>
+    <p style="text-align: center">Aber solange da keine DB oder so hinter sitzt ist es eig auch egal</p>
+    <hr>
+    <div id="menuCardFrame">
+    <img style="width: 100%;"src="images/Menu.png">
+    </div>
+
+  </div>
+
+  <div class="column right">
+    <p> Random Text </p>
+    <hr>
+    <hr>
+    <p> Random Text </p>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Creator or Whatever: ####</p>
+  <p>Contact information: <a href="mailto:someone@example.com">
+  someone@example.com</a>.</p>
+</div>
+</div>
+</body>
+
+</html>
