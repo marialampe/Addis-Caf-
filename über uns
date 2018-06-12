@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>####</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div id="wrapper">
+<div class="header">
+  <p class="headLine"> Addis Cafe </p>
+  <hr>
+  <!-- <img src="1.png"></img> -->
+
+</div>
+
+<div class="row">
+  <!-- Maincontent -->
+  <div class="column left">
+
+    <a href="Layout01.html">Aktuelles</a>
+    <a href="Layout01_Menu.html">Menu</a>
+    <a href="Layout01_Reservierungen.html">Resevierung</a>
+    <a href="Layout01_uber.html">Über uns</a>
+    <a href="Layout01_BilderGallerie.html">BilderGallerie</a>
+    <a href="Layout01_Kontakt.html">Kontakt und Anfahrt</a>
+
+
+  </div>
+<!-- Maincontent -->
+  <div class="column middle">
+
+  <p style="text-align: center; font-size: 24px;">  </p>
+  <p style="text-align: center; font-size: 24px;"> sieht 10x besser aus wenn das Bild einen Schwarzen Background hat  aber das nicht mein Prob.</p>
+  <p style="text-align: center; font-size: 30px;"> Mitarbeiter </p>
+  <hr>
+  <div class="card">
+    <img src="images/RandomBild.jpg" alt="Maria">
+    <h1>Maria Lampe</h1>
+    <p class="title">Random Grill</p>
+    <p>Küche!</p>
+   <p style="margin: 0px"><button>Contact</button></p>
+  </div>
+
+  <div class="card">
+    <img src="https://placebear.com/200/300" alt="Maria">
+    <h1>Maria Lampe</h1>
+    <p class="title">Random Grill</p>
+    <p>Küche!</p>
+   <p style="margin: 0px"><button>Contact</button></p>
+  </div>
+
+  <div class="card">
+    <img src="https://placebear.com/200/300" alt="Maria">
+    <h1>Maria Lampe</h1>
+    <p class="title">Random Grill</p>
+    <p>Küche!</p>
+   <p style="margin: 0px"><button>Contact</button></p>
+  </div>
+
+  <div class="card">
+    <img src="https://placebear.com/200/300" alt="Maria">
+    <h1>Maria Lampe</h1>
+    <p class="title">Random Grill</p>
+    <p>Küche!</p>
+  <p style="margin: 0px"><button>Contact</button></p>
+  </div>
+
+  <div style="clear: both;"></div>
+  <hr>
+  </div>
+
+  <div class="column right">
+    <p> Random Text </p>
+    <hr>
+    <hr>
+    <p> Random Text </p>
+  </div>
+
+</div>
+
+<div class="footer">
+  <p>Creator or Whatever: ####</p>
+  <p>Contact information: <a href="mailto:someone@example.com">
+  someone@example.com</a>.</p>
+</div>
+</div>
+</body>
+
+</html>
